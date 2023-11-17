@@ -7,7 +7,3 @@ I primarily work in TypeScript / JavaScript, but also have experience in C# / .N
 Here you will find both a variety of personal projects as well as some resources I have created for fellow streamers.
 
 Please feel free to reach out via [email](lucasjgerrits@gmail.com), [LinkedIn](https://www.linkedin.com/in/lucasgerrits/), or [Twitter](https://twitter.com/carefreeb0mb)!
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgerrits&layout=compact)
