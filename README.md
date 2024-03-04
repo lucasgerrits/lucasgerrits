@@ -1,6 +1,6 @@
 Hello,
 
-In case you missed the username, I am Lucas (or Luke). You may also know me by my creator handle, CareFreeBomb. Nice to meet you!
+My name is Lucas (Luke is fine). You may also know me on the internet by my creator handle, CareFreeBomb. Nice to meet you!
 
 Here you will find both a variety of personal projects as well as some resources I have created for fellow streamers.
 
